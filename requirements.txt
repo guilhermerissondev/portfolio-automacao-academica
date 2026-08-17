@@ -1,0 +1,17 @@
+pandas
+numpy
+openpyxl
+xlsxwriter
+matplotlib
+seaborn
+plotly
+scikit-learn
+lightgbm
+optuna
+mlflow
+pandera
+duckdb
+reportlab
+joblib
+tqdm
+ipython
